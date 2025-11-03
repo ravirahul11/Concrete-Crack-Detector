@@ -29,8 +29,6 @@ The app provides an easy-to-use web interface built with **Streamlit**.
 
 When you upload an image, the app displays the result and confidence level.
 
-> 📸 Add a screenshot named `app_screenshot.png` in your repo to replace this placeholder.
-
 ![App Screenshot](app_screenshot.png)
 
 ---
