@@ -45,7 +45,4 @@ The model is based on **Transfer Learning** using ResNet50:
 
 Transfer learning drastically improves accuracy and reduces training time compared to building a model from scratch.
 
----
-
-## 📂 Project Structure
 
